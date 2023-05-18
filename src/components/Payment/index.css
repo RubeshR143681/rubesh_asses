@@ -1,0 +1,191 @@
+.spanelfor18000 {
+  text-decoration: line-through #ff0000;
+}
+.sapnelfor99 {
+  color: #0096ff;
+  margin-right: 5px;
+}
+.sapnEl {
+  color: #0096ff;
+  margin-left: 5px;
+}
+.signup {
+  font-size: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fist_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.second_div .fist_para {
+  font-size: 15px;
+  margin-bottom: -10px;
+}
+
+.second_div .seon_para {
+  font-size: 15px;
+}
+
+.second_div .seon_para span {
+  font-size: 11px;
+  color: #bebebe;
+  margin-left: 10px;
+}
+
+.second_div .fist_para span {
+  font-size: 18px;
+  margin-left: 5px;
+  font-weight: 500;
+}
+
+.second_div {
+  text-align: center;
+  padding: 5px 10px;
+}
+.fist_div img {
+  height: 25px;
+  width: 25px;
+  margin: 0px 12px;
+}
+.sunfee {
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+  margin: -10px 40px;
+}
+.sun_container {
+  display: flex;
+  justify-content: space-between;
+}
+.inner_div_foot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner_div_foot img {
+  margin-right: 10px;
+  margin-top: -20px;
+
+  font-weight: 500;
+}
+.inner_div_foot p {
+  margin-top: -5px;
+  color: #de4313;
+  font-weight: 300;
+}
+.can {
+  color: #de4313;
+}
+.sun_container {
+  margin: 10px 20px;
+  border-radius: 8px;
+
+  background: linear-gradient(
+    135deg,
+    rgba(222, 67, 19, 0.2) 0%,
+    rgba(222, 67, 19, 0.2) 0.75%,
+    rgba(222, 67, 19, 0.2) 2.92%,
+    rgba(222, 68, 20, 0.2) 6.37%,
+    rgba(223, 69, 21, 0.2) 10.97%,
+    rgba(223, 72, 22, 0.2) 16.59%,
+    rgba(224, 75, 24, 0.2) 23.1%,
+    rgba(225, 80, 27, 0.2) 30.37%,
+    rgba(227, 86, 31, 0.2) 38.27%,
+    rgba(229, 94, 36, 0.2) 46.66%,
+    rgba(231, 104, 43, 0.2) 55.41%,
+    rgba(235, 117, 51, 0.2) 64.39%,
+    rgba(238, 132, 60, 0.2) 73.47%,
+    rgba(243, 149, 71, 0.2) 82.52%,
+    rgba(248, 169, 84, 0.2) 91.41%,
+    rgba(254, 193, 99, 0.2) 100%
+  );
+  border-radius: 8px;
+  border: 2px solid #de4313;
+  padding: 0px 10px;
+}
+.totaldiv {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 150px;
+  margin-top: -10px;
+}
+.totaldiv .totaldivparaone {
+  font-size: 18px;
+  font-weight: 400;
+}
+.totaldiv .totaldivparaone .totaldivspanone {
+  margin-left: 5px;
+  font-weight: 300;
+  color: #3c4852;
+  font-size: 14px;
+}
+.totaldiv .totaldivparatwo {
+  font-weight: 600;
+  font-size: 23px;
+}
+.btndiv {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: -8px;
+}
+.btndiv .btnone {
+  height: 55px;
+  width: 190px;
+  background-color: transparent;
+  color: #f77171;
+  border: 2px solid #f77171;
+  font-weight: 500;
+  cursor: pointer;
+}
+.btndiv .btntwo {
+  height: 55px;
+  width: 190px;
+  background-color: #47ba68;
+  color: white;
+  border: 0px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.last_img {
+  padding: 30px;
+  margin-top: -15px;
+}
+.recondiv {
+  background-color: #47ba68;
+  height: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  border-radius: 4px;
+}
+.recondiv p {
+  color: white;
+  font-size: 10px;
+}
+.fist_div {
+  display: flex;
+  flex-direction: column;
+  margin-top: -8px;
+}
+.imgesdiv {
+  display: flex;
+  align-items: center;
+  margin-top: -8px;
+}
+.sist_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.imgageof3 {
+  margin: 0px 13px;
+}
